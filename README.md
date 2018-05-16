@@ -1,4 +1,4 @@
-my host page: https://info201b-s18.github.io/laurissalam201/web-materials
+my host page: https://laurissalam201.github.io/web-materials/
 # Introduction to HTML & CSS and Application to Shiny
 
 Have you ever wanted to make a website? Whether it's for your portfolio, personal website or even just to show off to your friends?
